@@ -385,6 +385,8 @@ The model predicts medicine pricing category based on the selected inputs.
 
 # 📌 Example Prediction
 
+![image alt](https://github.com/MohammadKhalandar39/AI-Medicine-Price-Predictor-Python-Machine-Learning-Streamlit/blob/eea29bb369d747b3b724b98c320dccae7308a615/Dashboards/Screenshot%20(26).png)
+
 ### Input
 
 * Manufacturer: Sun Pharma
