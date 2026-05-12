@@ -369,6 +369,8 @@ matplotlib
 
 # 📸 Application Features
 
+![image alt](https://github.com/MohammadKhalandar39/AI-Medicine-Price-Predictor-Python-Machine-Learning-Streamlit/blob/ccb5e8bb3f1695cdc0eb0abb67a3783173e31ada/Dashboards/Screenshot%20(31).png)
+
 ## User Inputs
 
 * Manufacturer
